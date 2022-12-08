@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "bbb",
+      "email": "bbb@test.com",
+      "phone": "2222222222",
+      "address": "Rajkot"
+    },
+    {
+      "id": "1",
+      "name": "bbbasdasdasdads",
+      "email": "bbb@test.com",
+      "phone": "2222222222",
+      "address": "Rajkot"
+    }
+  ]
+}
